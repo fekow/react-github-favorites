@@ -3,6 +3,8 @@
 
 Acessar repositórios e suas issues, com categorização e paginação.
 
+[Link para demo](https://festive-panini-93af81.netlify.app/)
+
 ## Demostração do app:
 ![](demo.gif)
 
